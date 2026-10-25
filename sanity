@@ -1,275 +1,183 @@
 
 
+
 <!DOCTYPE html>
-<html amp lang="id">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>MPO88: Platfrom Lotus Pens Premium Agen Slot777 Situs Gacor Hari Ini</title>
-    <meta name="description" content="Mpo88 dengan akses agen slot777 dan informasi situs populer yang mudah diakses hari ini. Terbikan link situs gacor dengan kualitas premium.">
-    <meta name="robots" content="index,follow">
-    <link rel="icon" href="https://ik.imagekit.io/ctoqfgj0a/download.png?updatedAt=1759689206020" type="image/x-icon">
-    <link rel="canonical" href="https://sanity.lotuspens.com/">
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-<style amp-boilerplate>
-  body {
-    -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-    -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-    -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-    animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-  }
-  @-webkit-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } }
-  @-moz-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } }
-  @-ms-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } }
-  @-o-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } }
-  @keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } }
-</style>
-<noscript>
-  <style amp-boilerplate>
-    body {
-      -webkit-animation: none;
-      -moz-animation: none;
-      -ms-animation: none;
-      animation: none;
-    }
-  </style>
-</noscript>
+<html amp lang="id-ID">
+<head></script>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>SLOT777: Situs Link Slot Gacor ONLINE 777 Resmi apk Slot88 Donwload Di sini</title>
+   <link rel="canonical" href="https://www.odpc.go.ke/" />
+   <meta name="description" content="Slot777 adalah situs link slot gacor online 777 resmi dengan apk slot88 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot online hari ini." /> 
+   <meta name="keywords" content="slot777, situs slot777, link slot777, login slot777, agen slot777, alternatif slot777, slot gacor, slot online" />
+   <link rel="icon" type="image/png" href="https://ik.imagekit.io/qocudfxrl/favico.webp" sizes="16x16">
+   <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+   <script async src="https://cdn.ampproject.org/v0.js"></script>
 
-    <style amp-custom>
-      * {margin:0; padding:0; box-sizing:border-box;}
-      body {
-        background:#000;
-        font-family:'Segoe UI',Arial,sans-serif;
-        color:#0d018d;
-        display:flex;
-        flex-direction:column;
-        align-items:center;
-        min-height:100vh;
-        overflow-x:hidden;
+   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1, end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1, end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1, end) 0s 1 normal both;animation:-amp-start 8s steps(1, end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+   <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+   <style amp-custom>
+      * { box-sizing: border-box; }
+      body { font-family: monospace; position: relative; overflow-x: hidden; background: #000; }
+
+      /* BACKGROUND BLUR */
+      body::before {
+         content: ""; position: fixed; inset: 0; z-index: -1;
+         background: url("https://ik.imagekit.io/qocudfxrl/slot777-situs-link.jpg") no-repeat center center fixed;
+         background-size: cover; filter: blur(8px); opacity: 0.6;
       }
 
-      /* ===== HEADER ===== */
-      .ig-header {
-        display:flex;
-        align-items:center;
-        justify-content:space-between;
-        padding:8px 14px;
-        background:rgba(0,0,0,0.55);
-        border-radius:8px 8px 0 0;
-        max-width:500px;
-        margin:0 auto;
+      .container { max-width: 400px; margin: 0 auto; padding: 15px; display: flex; flex-direction: column; }
+
+      /* LOGO & WELCOME */
+      header center { margin-bottom: 10px; }
+      .welcome h3 {
+         font-size: 11px; color: #e0e926; text-align: center; overflow: hidden;
+         border-right: .15em solid #da980a; white-space: nowrap; margin: 5px 0;
+         animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+      }
+      @keyframes typing { from { width: 0 } to { width: 100% } }
+      @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: #da980a; } }
+
+      /* TOMBOL LOGIN DAFTAR UTAMA */
+      .btn-daftar {
+         display: block; padding: 12px; color: #e0e926; font-size: 18px; font-weight: bold;
+         text-decoration: none; text-align: center; border-radius: 10px;
+         background: linear-gradient(to bottom, #1A1A1A 0%, #2B2B2B 100%);
+         margin: 10px 0; box-shadow: 0 0 15px #da980a;
+         animation: blink 0.7s step-end infinite;
+      }
+      @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.7; } 100% { opacity: 1; } }
+
+      /* PANEL GABUNGAN (STATISTIK + BANNER) */
+      .main-panel {
+         background: rgba(0, 0, 0, 0.8);
+         border: 2px solid #da980a;
+         border-radius: 15px;
+         overflow: hidden;
+         margin-bottom: 15px;
+         box-shadow: 0 0 20px #da980a;
       }
 
-      .ig-profile {display:flex;align-items:center;gap:8px;}
-      .ig-avatar img {
-        width:85px;height:45px;object-fit:contain;border-radius:50%;
+      /* Bar Statistik */
+      .meters-overlay { padding: 15px 15px 5px 15px; }
+      .meter { margin-bottom: 12px; }
+      .meter-label {
+         display: flex; justify-content: space-between;
+         font-size: 11px; color: #e0e926; font-weight: bold; margin-bottom: 5px;
       }
-      .ig-user {display:flex;align-items:center;gap:4px;margin-right:8px;}
-      .ig-username {font-weight:600;color:#fff;font-size:14px;}
-      .ig-verified {color:#0d018d;font-size:16px;transform:translateY(1px);}
-      .ig-following {
-        background:transparent;border:1px solid #0d018d;border-radius:6px;
-        padding:4px 10px;color:#0d018d;font-size:11px;font-weight:600;
-        cursor:pointer;transition:.3s;
+      .meter-label span:last-child { color: #e0e926; text-shadow: 0 0 5px #da980a; }
+      
+      .meter-bar {
+         height: 10px; background: rgba(255,255,255,0.1); border-radius: 5px;
+         position: relative; overflow: hidden; border: 1px solid #da980a;
       }
-      .ig-following:hover {background:rgba(255,255,255,0.15);}
-      .ig-more {color:#fff;font-size:20px;}
-/* ==== GAMBAR MENGKILAP ==== */
-.SLOT777 {
-  position:relative;
-  display:inline-block;
-  width:100%;
-  max-width:500px;
-  border-radius:10px;
-  overflow:hidden;
-  box-shadow:0 0 15px #0d018d,0 0 25px #6a1388;
-  margin-top:6px;
-}
-.SLOT777::before {
-  content:"";
-  position:absolute;top:0;left:-75%;
-  width:50%;height:100%;
-  background:linear-gradient(120deg,rgba(255,255,255,0.35),rgba(255,255,255,0));
-  transform:skewX(-25deg);
-  animation:shineSweep 2.8s linear infinite;
-  z-index:2; /* ✅ efek kilau di atas gambar */
-  pointer-events:none; /* agar tetap bisa klik gambar/tombol */
-  mix-blend-mode:screen; /* membuat kilau lebih realistis */
-}
-@keyframes shineSweep {0%{left:-75%;opacity:0.3;}50%{opacity:1;}100%{left:125%;opacity:0.3;}}
+      .fill {
+         height: 100%; position: relative;
+         background: linear-gradient(90deg, #56DB14, #DBD314, #e0e926);
+      }
+      .fill.t1 { width: 85%; animation: pulseA 4.5s ease-in-out infinite; }
+      .fill.t2 { width: 92%; animation: pulseB 5.2s ease-in-out infinite; }
 
-.SLOT777 amp-img {
-  width:100%;
-  height:auto;
-  border-radius:10px;
-  display:block;
-  position:relative;
-  z-index:1; /* gambar di bawah kilau */
-  transition:transform .4s ease;
-}
-.SLOT777:hover amp-img {
-  transform:scale(1.02);
-}
+      /* Banner */
+      .banner-wrap { position: relative; width: 100%; border-top: 1px solid #da980a; }
+      .shine {
+         position: absolute; top: 0; right: -150%; width: 50%; height: 100%;
+         background: linear-gradient(120deg, transparent, #da980a, transparent);
+         animation: bannerShine 3s infinite;
+      }
 
-.container,
-.ig-header,
-.SLOT777,
-.caption-section,
-.site-info {
-  max-width: 400px;
-  width: 100%;
-  margin: 0 auto;
-}
-      /* ==== TOMBOL GLOW ==== */
-      .glowing {
-        text-align:center;
-        margin:6px auto;
-        animation:floaty 4s ease-in-out infinite;
+      /* TABEL MENU */
+      table { width: 100%; margin-top: 5px; border-collapse: separate; border-spacing: 0 8px; }
+      th { 
+         background: linear-gradient(to right, #1A1A1A, #2B2B2B); 
+         color: #e0e926; padding: 10px; border-radius: 5px; font-size: 14px; text-transform: uppercase;
       }
-      @keyframes floaty {0%,100%{transform:translateY(0);}50%{transform:translateY(-4px);}}
+      td { background: #1a1a1a; color: #e0e926; text-align: center; padding: 10px; border-radius: 5px; font-weight: bold; border: 1px solid #da980a; }
+      td a.btn-link { 
+         display: inline-block; text-decoration: none; color: #e0e926; 
+         background: linear-gradient(to bottom, #1A1A1A 0%, #2B2B2B 100%);
+         padding: 6px 12px; border-radius: 5px; font-size: 11px; font-weight: bold;
+      }
 
-      .btn-glow {
-        display:inline-flex;align-items:center;justify-content:center;
-        width:45%;height:32px;margin:6px;
-        font-size:12px;font-weight:600;text-transform:uppercase;
-        color:#fff;background:linear-gradient(90deg, #0d018d, #83afd7);
-        border:none;border-radius:8px;cursor:pointer;
-        position:relative;overflow:hidden;
-        box-shadow:0 0 10px rgba(255,0,0,0.4);
-        transition:.25s;
+      /* RUNNING TEXT */
+      .running-wd {
+         width: 100%; overflow: hidden; background: #000; border-radius: 5px;
+         margin: 10px 0; border: 1px solid #da980a; padding: 5px 0;
       }
-      .btn-glow:hover {
-        transform:scale(1.05);
-        box-shadow:0 0 25px rgba(0, 195, 255, 0.8),0 0 35px rgba(120, 251, 255, 0.6);
+      .running-wd span {
+         display: inline-block; white-space: nowrap; padding-left: 100%;
+         animation: runtext 20s linear infinite; color: #e0e926; font-size: 11px;
       }
-      .btn-glow::before {
-        content:"";position:absolute;top:0;left:-75px;width:50px;height:100%;
-        background:linear-gradient(120deg,rgba(255,255,255,0.35),rgba(255,255,255,0));
-        transform:skewX(-25deg);
-        animation:shineContinuous 1.8s linear infinite;
-      }
-      @keyframes shineContinuous {0%{left:-75px;}100%{left:130%;}}
 
-      /* ==== CAPTION / FOOTER ==== */
-      .caption-section {
-        width:100%;max-width:500px;
-        background:#000;padding:12px 16px 18px;
-        font-size:13px;line-height:1.6;
-      }
-      .ig-footer {color:#fff;border-radius:8px;}
-      .ig-icons {display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
-      .ig-icons img {
-        width:22px;height:22px;margin-right:12px;opacity:0.85;
-        filter:drop-shadow(0 0 2px rgba(255,255,255,0.4));transition:.2s;
-      }
-      .ig-icons img:hover {transform:scale(1.15);opacity:1;}
-      .likes {font-weight:600;margin-bottom:6px;}
-      .caption-text {margin-bottom:6px;}
-      .caption-text a {color:#0d018d;text-decoration:none;}
-      .view-comments {color:#999;font-size:13px;margin-bottom:6px;}
-      .time-ago {color:#777;font-size:12px;text-transform:uppercase;}
+      @keyframes runtext { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+      @keyframes bannerShine { 0% { right: -150%; } 100% { right: 150%; } }
+      @keyframes pulseA { 0%, 100% { width: 78%; } 50% { width: 88%; } }
+      @keyframes pulseB { 0%, 100% { width: 85%; } 50% { width: 96%; } }
+   </style>
+</head>
 
-      /* ==== BOX INFORMASI SITUS ==== */
-      .site-info {
-        background:rgba(20,20,20,0.9);
-        border:1px solid rgba(255,255,255,0.08);
-        border-radius:10px;
-        margin-top:14px;
-        padding:14px 16px;
-        max-width:500px;
-      }
-      .site-info h3 {
-        text-align:center;
-        font-size:12px;
-        font-weight:700;
-        color:#0d018d;
-        margin-bottom:10px;
-        text-shadow:0 0 8px rgba(255,0,0,0.4);
-        letter-spacing:1px;
-      }
-      .site-info table {width:100%;border-collapse:collapse;}
-      .site-info th {
-        text-align:left;
-        font-weight:600;
-        font-size:12px;
-        padding:5px 0;
-        color:#0d018d;
-        width:45%;
-      }
-      .site-info td {
-        font-size:12px;
-        color:#fff;
-        padding:5px 0;
-      }
-      /* ===== HAPUS GARIS BAWAH LINK ===== */
-a.btn-glow {
-  text-decoration: none;       /* hilangkan underline */
-  display: inline-flex;        /* pastikan sejajar dengan tombol lainnya */
-  align-items: center;
-  justify-content: center;
-  color: #fff;                 /* pastikan teks tetap putih */
-}
+<body>
+   <div class="container">
+      <header>
+         <center>
+            <amp-img src="https://ik.imagekit.io/qocudfxrl/seokampung.png?updatedAt=1788619132534" alt="Logo" width="350" height="90" layout="intrinsic"></amp-img>
+         </center>
+      </header>
 
-a.btn-glow:hover {
-  text-decoration: none;       /* pastikan hover juga tanpa garis */
-  color: #fff;
-}
-
-    </style>
-  </head>
-
-  <body>
-    <div class="container">
-      <!-- HEADER -->
-      <div class="ig-header">
-        <div class="ig-profile">
-          <div class="ig-avatar">
-            <img src="https://ik.imagekit.io/ctoqfgj0a/websli.png?updatedAt=1785527507894" alt="profile">
-          </div>
-          <div class="ig-user">
-            <span class="ig-verified"></span>
-          </div>
-        </div>
-        <button class="ig-following">Mengikuti</button>
-        <div class="ig-more">⋯</div>
+      <div class="welcome">
+         <h3>YUK MAIN SEKARANG DI SLOT777</h3>
       </div>
 
-      <!-- GAMBAR MENGKILAP -->
-      <div class="SLOT777">
-        <amp-img src="https://ik.imagekit.io/ctoqfgj0a/jajanterus.png?updatedAt=1783257141242"
-          width="500" height="500" layout="responsive" alt="SLOT777 Banner"></amp-img>
-      </div>
+      <a href="https://kolakbet.lol/register/?reff=WCSLQIXV" class="btn-daftar">
+         LOGIN | DAFTAR | BONUS
+      </a>
 
-      <!-- TOMBOL -->
-      <div class="glowing">
-        <a href="https://antartika69a1.online/daftar?ref=pglsot" target="_blank" rel="noreferrer noopener" role="button" class="btn-glow">DAFTAR</a>
-        <a href="https://antartika69a1.online/daftar?ref=pglsot" target="_blank" rel="noreferrer noopener" role="button" class="btn-glow">LOGIN</a>
-        
-      </div>
-
-      <!-- CAPTION AREA -->
-      <div class="caption-section">
-        <div class="ig-footer">
-          <div class="ig-icons">
-            <div class="ig-left">
-              <img src="https://fotoku.host/likes.png" alt="likes">
-              <img src="https://fotoku.host/comment.png" alt="comment">
-              <img src="https://fotoku.host/share.png" alt="share">
+      <div class="main-panel">
+         <div class="meters-overlay">
+            <div class="meter">
+               <div class="meter-label"><span>TRAFFIC JACKPOT</span> <span>HIGH 🔥</span></div>
+               <div class="meter-bar"><div class="fill t1"></div></div>
             </div>
-            <div class="ig-right">
-              <img src="https://fotoku.host/simpan.png" alt="save">
+            <div class="meter">
+               <div class="meter-label"><span>RTP LIVE HARI INI</span> <span>97.9% VERY HIGH</span></div>
+               <div class="meter-bar"><div class="fill t2"></div></div>
             </div>
-          </div>
+         </div>
 
-          <div class="likes">Disukai oleh <strong>SEO</strong> <strong>JO03</strong><strong></strong></div>
-          <div class="caption-text">
-            <strong>SLOT777</strong> dengan akses agen slot777 dan informasi situs populer yang mudah diakses hari ini. Terbikan link situs gacor dengan kualitas premium.</a>
-          </div>
-          <div class="view-comments">Lihat semua 168.234 komentar</div>
-          <div class="time-ago">1 menit yang lalu</div>
-          </div>
-        </div>
+         <div class="banner-wrap">
+            <amp-img src="https://ik.imagekit.io/qocudfxrl/slot777-situs-link.jpg" width="400" height="400" layout="responsive"></amp-img>
+            <div class="shine"></div>
+         </div>
       </div>
-    </div>
-  </body>
+
+      <div class="running-wd">
+         <span>💰 WD BERHASIL • Member Z*** WD Rp55.350.000 • Member Y*** WD Rp60.120.000 • Member F*** WD Rp15.780.000 • SELAMAT BERMAIN!</span>
+      </div>
+
+      <table>
+         <thead>
+            <tr>
+               <th><a href="https://kolakbet.lol/register/?reff=WCSLQIXV" class="btn-link" style="color: #e0e926">SITUS RESMI</a></th>
+               <th><a href="https://kolakbet.lol/register/?reff=WCSLQIXV" class="btn-link" style="color: #e0e926">LINK ALTERNATIF</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>SLOT GACOR</td>
+               <td><a href="https://kolakbet.lol/register/?reff=WCSLQIXV" class="btn-link">KLIK DISINI</a></td>
+            </tr>
+            <tr>
+               <td>MEMBER VIP</td>
+               <td><a href="https://kolakbet.lol/register/?reff=WCSLQIXV" class="btn-link">KLIK DISINI</a></td>
+            </tr>
+         </tbody>
+      </table>
+
+      <footer style="text-align:center; color:#e0e926; font-size:20px; margin-top:20px;">
+         <p>2026 • © <a style="color: #e0e926; text-decoration:none;" href="https://www.odpc.go.ke/">SEOKAMPUNG</a></p>
+      </footer>
+   </div>
+</body>
 </html>
